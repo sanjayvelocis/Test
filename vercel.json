@@ -1,7 +1,7 @@
 {
   "functions": {
-    "api/test.php": {
-      "runtime": "vercel-php@0.5.2"
+    "api/users/**/*.js": {
+      "maxDuration": 30
     }
   }
 }
